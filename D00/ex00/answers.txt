@@ -1,0 +1,6 @@
+1. echo "help('modules')" | python
+1.(bis) pip list --format freeze  | cut -d '=' -f 1 | tr '\n' ' '
+2. pip list
+3. pip show numpy
+4. pip search tesseract
+5. pip freeze > requirements.txt
