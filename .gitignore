@@ -3,3 +3,4 @@ __pytest__
 corrections
 .pytest_cache
 MANIFEST
+.vscode
